@@ -1,11 +1,27 @@
 /* Give your page a fun background color */
+body { background-color:rgb(7, 45, 45); }
+/* Make }the header and footer a different color from the background */
+header 
+{color: rgb(255, 255, 255);
+}
 
-/* Make the header and footer a different color from the background */
-
+footer { color: rgb(255, 255, 255);}
 /* Align the h1 containing your name in the center of the header*/
 
+h1 {text-align: center;}
+
 /* Make your p tag a different color and italic */
+p { font-size: 10px;
+    color: peachpuff;
+    font-weight: bold;
+    font-style: italic; }
 
 /* Put a border around your image */
+img { border: 5px solid #555;}
+img {width: 150x;}
+img {height: 200px;}
 
 /* Change the font-family of your list */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
