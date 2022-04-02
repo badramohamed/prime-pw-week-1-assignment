@@ -1,16 +1,16 @@
 /* Give your page a fun background color */
-body { background-color: grey }
+body { background-color: palevioletred }
 /* Make }the header and footer a different color from the background */
 header 
 {color: brown);
 }
 
 footer { 
-   background-color: black;
+   background-color: rgb(80, 0, 126);
     height: 40px
 }
 header {
-    background-color: black;
+    background-color: rgb(99, 0, 165);
     height: 40px
 
 }
@@ -21,7 +21,7 @@ h1 {text-align: center;
 color: white}
 
 /* Make your p tag a different color and italic */
-p { font-size: 10px;
+p { font-size: 15px;
     color: white;
     font-weight: bold;
     font-style: italic; }
