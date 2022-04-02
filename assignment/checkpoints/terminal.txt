@@ -9,9 +9,9 @@ cd
 # 4 - What is a quick way to create a new folder?
 mkdir 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+command ls shows you all content in a folder. If you run command ls in an empty folder you going to run into an error and it will not show any content. 
 # 6 - What is a quick way to create a new file?
-
+index.html
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
 # 8 - Why would you run the command 'git status'?
